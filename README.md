@@ -9,41 +9,41 @@ Hair Length Detection: Classifies hair length as short or long if the person’s
 
 **Technologies**
 
---Python: Programming language used for development.
---Tkinter: GUI toolkit for building the application interface.
---OpenCV: Library for image processing.
---PIL (Pillow): Library for handling images.
---TensorFlow/Keras: Framework for building and loading deep learning models.
+Python: Programming language used for development.
+Tkinter: GUI toolkit for building the application interface.
+OpenCV: Library for image processing.
+PIL (Pillow): Library for handling images.
+TensorFlow/Keras: Framework for building and loading deep learning models.
 
---Requirements
---Ensure you have the following Python packages installed:
---tensorflow
---opencv-python
---pillow
---numpy
---tkinter (usually comes pre-installed with Python)
+**Requirements**
+Ensure you have the following Python packages installed:
+tensorflow
+opencv-python
+pillow
+numpy
+tkinter (usually comes pre-installed with Python)
 You can install the required packages using pip:
 
-bash
+**bash**
 Copy code
 pip install tensorflow opencv-python pillow numpy
 Setup
 Clone the Repository:
 
-bash
+**bash**
 Copy code
 git clone https://github.com/yourusername/your-repository.git
 cd your-repository
 Place Model Files:
 Make sure you have the model files (hair_length_model.h5, gender_classification_model.h5, and age_prediction_model.h5) in the same directory as app.py.
 
-Add Icon File:
+**Add Icon File:**
 Ensure the icon file OIP.jpeg is also placed in the same directory as app.py.
 
-Usage
+**Usage**
 Run the Application:
 
-bash
+**bash**
 Copy code
 python app.py
 Using the GUI:
