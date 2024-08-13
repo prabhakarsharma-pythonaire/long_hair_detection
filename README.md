@@ -1,11 +1,13 @@
 Long Hair Detection App
 This application uses deep learning models to predict age, gender, and hair length from uploaded images. It features a graphical user interface (GUI) built with Tkinter, which allows users to easily upload an image and receive predictions.
 
-Features
+**Features**
 Age Prediction: Estimates the age of the person in the image.
 Gender Classification: Determines the gender of the person in the image.
 Hair Length Detection: Classifies hair length as short or long if the person’s age is between 20 and 30 years old.
-Technologies
+
+
+**Technologies**
 Python: Programming language used for development.
 Tkinter: GUI toolkit for building the application interface.
 OpenCV: Library for image processing.
