@@ -1,4 +1,4 @@
-Long Hair Detection App
+**Long Hair Detection App**
 This application uses deep learning models to predict age, gender, and hair length from uploaded images. It features a graphical user interface (GUI) built with Tkinter, which allows users to easily upload an image and receive predictions.
 
 **Features**
@@ -8,19 +8,20 @@ Hair Length Detection: Classifies hair length as short or long if the person’s
 
 
 **Technologies**
-Python: Programming language used for development.
-Tkinter: GUI toolkit for building the application interface.
-OpenCV: Library for image processing.
-PIL (Pillow): Library for handling images.
-TensorFlow/Keras: Framework for building and loading deep learning models.
-Requirements
-Ensure you have the following Python packages installed:
 
-tensorflow
-opencv-python
-pillow
-numpy
-tkinter (usually comes pre-installed with Python)
+--Python: Programming language used for development.
+--Tkinter: GUI toolkit for building the application interface.
+--OpenCV: Library for image processing.
+--PIL (Pillow): Library for handling images.
+--TensorFlow/Keras: Framework for building and loading deep learning models.
+
+--Requirements
+--Ensure you have the following Python packages installed:
+--tensorflow
+--opencv-python
+--pillow
+--numpy
+--tkinter (usually comes pre-installed with Python)
 You can install the required packages using pip:
 
 bash
