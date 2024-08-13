@@ -1,0 +1,16 @@
+2024-08-13 21:56:03,204 - AppLogger - INFO - Models loaded successfully.
+2024-08-13 21:56:03,421 - AppLogger - INFO - Application started.
+2024-08-13 21:57:46,356 - AppLogger - INFO - Image uploaded: C:/prabhakar/null classes/long hair detection/long hair/20_0_2_20170116161442758.jpg.chip.jpg
+2024-08-13 21:57:52,623 - AppLogger - DEBUG - Predicted age: 25.25377082824707
+2024-08-13 21:57:52,825 - AppLogger - DEBUG - Predicted hair label: 1.0, Gender: Female, Hair Length: Long
+2024-08-13 21:57:52,826 - AppLogger - INFO - Prediction results: Predicted Age: 25.25377082824707
+Gender: Female
+Hair Length: Long
+2024-08-13 22:00:20,154 - AppLogger - INFO - Models loaded successfully.
+2024-08-13 22:00:20,361 - AppLogger - INFO - Application started.
+2024-08-13 22:00:30,854 - AppLogger - INFO - Image uploaded: C:/prabhakar/null classes/long hair detection/long hair/20_1_0_20170109212842300.jpg.chip.jpg
+2024-08-13 22:00:36,247 - AppLogger - DEBUG - Predicted age: 29.481842041015625
+2024-08-13 22:00:36,446 - AppLogger - DEBUG - Predicted hair label: 0.9798623919487, Gender: Female, Hair Length: Long
+2024-08-13 22:00:36,447 - AppLogger - INFO - Prediction results: Predicted Age: 29.481842041015625
+Gender: Female
+Hair Length: Long
