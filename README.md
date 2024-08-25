@@ -24,3 +24,6 @@ This project aims to develop a deep learning model capable of accurately detecti
 pip install -r requirements.txt
 
 
+## Models link 
+https://drive.google.com/drive/folders/1H47yHyCZnJ5A0azJbMsgl6PbkfYoPz-_?usp=drive_link
+
